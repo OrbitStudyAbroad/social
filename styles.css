@@ -11,7 +11,7 @@ html, body {
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(135deg, #1e3a8a 0%, #2563eb 50%, #3b82f6 100%);
+    background: linear-gradient(135deg, #1e3a8a 0%, #2563eb 50%, #233c79 100%);
     min-height: 100vh;
     display: flex;
     align-items: center;
@@ -39,8 +39,8 @@ body {
 }
 
 .logo {
-    width: 300px; /* تم تكبير اللوجو من 200px إلى 300px */
-    height: 108px; /* تم تعديل الارتفاع بشكل متناسب */
+    width: 450px; /* تم تكبير اللوجو من 200px إلى 300px */
+    height: 162px; /* تم تعديل الارتفاع بشكل متناسب */
     filter: drop-shadow(0 10px 30px rgba(0, 0, 0, 0.2));
     animation: float 3s ease-in-out infinite;
 }
