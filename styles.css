@@ -11,7 +11,7 @@ html, body {
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(135deg, #1e3a8a 0%, #2563eb 50%, #233c79 100%);
+    background: linear-gradient(135deg, #233c79 0%, #233c79 50%, #233c79 100%);
     min-height: 100vh;
     display: flex;
     align-items: center;
